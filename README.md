@@ -58,15 +58,3 @@ Execute:
 ```bash
 python src/auto_process.py
 ```
-
-## Technical Architecture
-
-```
-src/
-├── app.py          # Web interface
-├── auto_process.py # Batch processor
-├── download.py     # Audio retrieval
-├── transcribe.py   # Speech-to-text
-├── analyze.py      # AI processing
-└── notion_utils.py # Database sync
-```
