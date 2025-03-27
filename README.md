@@ -70,5 +70,3 @@ src/
 ├── analyze.py      # AI processing
 └── notion_utils.py # Database sync
 ```
-
-## Technical Architecture
