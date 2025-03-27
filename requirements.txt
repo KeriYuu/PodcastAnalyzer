@@ -1,0 +1,12 @@
+streamlit>=1.32.0
+selenium>=4.18.1
+requests>=2.31.0
+tqdm>=4.66.2
+openai>=1.12.0
+notion-client>=2.2.1
+python-dotenv>=1.0.1
+faster-whisper>=0.10.0
+pydub>=0.25.1
+filetype>=1.2.0
+torch>=2.2.0
+ffmpeg-python>=0.2.0
