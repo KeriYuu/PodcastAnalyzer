@@ -1,4 +1,4 @@
-# Podcast Toolkit: Download, Transcribe & Analyze
+# Podcast Download, Transcribe, Analyze, and Storage
 
 A streamlined solution for managing Xiaoyuzhou podcasts through automated processing and AI-powered insights. Direct integration with Notion enables organized knowledge management.
 
@@ -32,8 +32,8 @@ A streamlined solution for managing Xiaoyuzhou podcasts through automated proces
 ## Quick Start
 
 ```bash
-git clone https://github.com/KeriYuu/podcast2notion
-cd podcast2notion
+git clone https://github.com/KeriYuu/PodcastAnalyzer
+cd PodcastAnalyzer
 pip install -r requirements.txt
 ```
 
@@ -70,3 +70,5 @@ src/
 ├── analyze.py      # AI processing
 └── notion_utils.py # Database sync
 ```
+
+## Technical Architecture
